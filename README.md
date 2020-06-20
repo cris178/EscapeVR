@@ -29,5 +29,6 @@ Note that if you run the game we have two avatar types to play as. Just select a
 
 - **Cristian Reyes** - _Initial work_ - [Twitter](http://www.twitter.com/cris178)
 - **Ho Yee Chan** - _Initial work_ - [LinkedIN](https://www.linkedin.com/in/ho-yee-chan/)
+- **Shiyao Feng** - _Initial work_ - [LinkedIN](https://www.linkedin.com/in/shiyao-feng-228829149/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BHaeJd8lpSZmPecYR5wiZgA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_people-search_srp_result&lici=i73ZGBvoQa%2Bk78aYXfToBg%3D%3D)
 
 ## Acknowledgments
